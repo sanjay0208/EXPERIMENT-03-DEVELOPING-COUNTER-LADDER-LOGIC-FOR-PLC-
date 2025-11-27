@@ -1,8 +1,8 @@
 # EXPERIMENT-03-DEVELOPING-COUNTER-LADDER-LOGIC-FOR-PLC-
-## NAME : Sanjay M
-## REGISTER NUMBER : 212222110038
-## DEPARTMENT : Cse(Iot)
-## YEAR : IVth year
+## NAME: Sanjay M
+## REGISTER NUMBER: 212222110038
+## DEPARTMENT: CSE IOT
+## YEAR: IV
 
 ### Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
@@ -67,16 +67,18 @@ Down Counter (CTD): The output should activate when the count reaches zero.
 Up/Down Counter (CTUD): The output should activate when the count reaches the preset value or zero, depending on the inputs.
 
 ### Simulation Screenshots:
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/8424f8d7-1624-4a70-8bf7-9e92ccfb1199" />
 
-<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/a2be121b-0475-4820-97e0-ae1d2e50ef26" />
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/a5e16297-10d0-4107-8dd8-d1b796f5ecf1" />
 
-<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/185f90f2-92d0-4188-a80d-84ff43c1142f" />
 
-<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/d159b62d-81bc-4b14-a6ca-383f89196e50" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/9b6e9146-b2cb-4a88-b15c-9117f81ba0f8" />
 
-<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/b5dc4ab5-2b6b-4586-afc9-dd2e14a98caa" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/074fd551-3d48-4e92-a48a-cca415bcdc61" />
 
-<img width="1907" height="1018" alt="image" src="https://github.com/user-attachments/assets/f018bc60-e322-4b2b-abe1-086209d6a7ee" />
+<img width="1907" height="1018" alt="image" src="https://github.com/user-attachments/assets/e1f5bd54-1ed4-496d-9f72-f5e2763af280" />
+
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/6f1ddb25-9154-4e76-a6bf-d6915a49a7f6" />
 
 
 ### Results:
